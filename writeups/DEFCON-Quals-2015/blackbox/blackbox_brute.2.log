@@ -1,0 +1,1288 @@
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [#$%&'()*+,-./:;<=>?@[\]^_`{|}~ ABCDEFGHIJKLMNOP]	Expected [jYe"< GQD}"<GP}FT"?LPD~j]
+
+Rotation:  64
+Send:  %39 Pelvic Plucky Squid%
+Recv:  Password valid.
+Another easy box:
+
+Send:  %%68 Duping Gouts Tussle
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [nmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA ~}|{`_]	Expected [fnVL^WXienI^lXebM^tx55]
+
+Rotation:  88
+Send:  ##40 Tiles Pulped Scum
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AU]	Expected [:.B7Ew7]O[c;[SgOwGSb5{q]
+
+Char Diff:  20
+Send:  :34 Trips Swirl Numbly:
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [*vWVq[,z]	Expected [FLVy~&gOVq^z`Tt^{]k%DDVq]
+
+Rotation:  71
+Send:  ++58 Futile Molls Gelded
+Recv:  Password valid.
+Great! Last one!
+
+Send:  AA
+Recv:  Password [EJ]	Expected [X9UZ,6dLa_c}-9w$'jszL~CgHz}}D&,<CSvzxPQsz?u)CF]
+
+Rotation:  71
+Send:  TA
+Recv:  Password [Xc]	Expected [X9UZ,6dLa_c}-9w$'jszL~CgHz}}D&,<CSvzxPQsz?u)CF]
+
+Send:  Th
+Recv:  Password [X9]	Expected [X9UZ,6dLa_c}-9w$'jszL~CgHz}}D&,<CSvzxPQsz?u)CF]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [#$%&'()*+,-./:;<=>?@[\]^_`{|}~ ABCDEFGHIJKLMNOP]	Expected [bW"]MDIB"/{OC"[I~PGT44]
+
+Rotation:  64
+Send:  61 Wring Math Unduly^^
+Recv:  Password valid.
+Another easy box:
+
+Send:  ;51 Reruns Invent Poser;
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [76543210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPON]	Expected [H''Mt0vxnjMr01pfMqr66vcH]
+
+Rotation:  13
+Send:  `Pitted Scone Waking 33`
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A5]	Expected [$b:klN^&L?t4iS#iBS@[bG]
+
+Char Diff:  57
+Send:  $$63 Newest Plain Hubs
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [DGjv ~|^]	Expected [`>bn__.gu3O%@)b'SS>'al]
+
+Rotation:  3
+Send:  Pets Roast 45 Rounds[]
+Recv:  Password valid.
+Great! Last one!
+
+Send:  ThAA
+Recv:  Password [@]|t]	Expected [@]Z.@;Oz|c,&(zIt@$(Q9DWqvkg!,R"-:,:%OoV 9HfP&o]
+
+Rotation:  3
+Send:  TheA
+Recv:  Password [@]a.]	Expected [@]Z.@;Oz|c,&(zIt@$(Q9DWqvkg!,R"-:,:%OoV 9HfP&o]
+
+Send:  The 
+Recv:  Password [@]Z.]	Expected [@]Z.@;Oz|c,&(zIt@$(Q9DWqvkg!,R"-:,:%OoV 9HfP&o]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [FGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]	Expected [@$9EQjfsEXzwkjwEPzitx@]
+
+Rotation:  5
+Send:  ;84 Lean Surfer Kudos;
+Recv:  Password valid.
+Another easy box:
+
+Send:  98 Boyish Maxed Solos--
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [dcbaZYXWVUTSRQPONMLKJIHGFEDCBA ~}|{`_^]\[@?>=<;]	Expected [.,mo:MNYXLB:hJU=:MNUUXA]
+
+Rotation:  78
+Send:  Rolled Clay Scoped 53{}
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [Ax]	Expected [-&nDt|15QNx}"%:eX.1c8cM]
+
+Char Diff:  49
+Send:  -Skunks Evict 43 Caves-
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [$j~'p?(r]	Expected [t6IYy&fF Ncn2KzObuP="^:>]
+
+Rotation:  65
+Send:  .13 Buckle Carpal Homer.
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The AA
+Recv:  Password [g<}9|_]	Expected [g<}9b9pRype~;(=>l'>W\zYrzs#;qyFt4fE:6h_=F\6/a1]
+
+Rotation:  65
+Send:  The fA
+Recv:  Password [g<}9bY]	Expected [g<}9b9pRype~;(=>l'>W\zYrzs#;qyFt4fE:6h_=F\6/a1]
+
+Send:  The fl
+Recv:  Password [g<}9b9]	Expected [g<}9b9pRype~;(=>l'>W\zYrzs#;qyFt4fE:6h_=F\6/a1]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [stuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{]	Expected [mIJr0,>-_`rx>;-^_r9-+=[@m]
+
+Rotation:  44
+Send:  `78 Idlest Fliers Reckon`
+Recv:  Password valid.
+Another easy box:
+
+Send:  28 Erect Dents Play<>
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [GFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543]	Expected [qqEF\'2RP2EF`~\+2B\D)]
+
+Rotation:  55
+Send:  Prep Remits 35 Nets??
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A"]	Expected [|V_~=;gF7|,'p~6t5wcHV]
+
+Char Diff:  63
+Send:  |15 Swine Notify Wit|
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [2Nx.3Pe8]	Expected [@+3FbMW`(y{[0Dk,0JhVov`}`]
+
+Rotation:  54
+Send:  $$49 Buffed Fables Braked
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flAA
+Recv:  Password [d,'x-8-[]	Expected [d,'x-8lPqZ99tDGs<5lA}$=*';KzdY|_m{yF3b#'0[2-Sl]
+
+Rotation:  54
+Send:  The flaA
+Recv:  Password [d,'x-8FP]	Expected [d,'x-8lPqZ99tDGs<5lA}$=*';KzdY|_m{yF3b#'0[2-Sl]
+
+Send:  The flag
+Recv:  Password [d,'x-8lP]	Expected [d,'x-8lPqZ99tDGs<5lA}$=*';KzdY|_m{yF3b#'0[2-Sl]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [?@[\]^_`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefgh]	Expected [MNal> bhfR>\RSbTf>ut33]
+
+Rotation:  82
+Send:  Zany Mouse Defogs 76''
+Recv:  Password valid.
+Another easy box:
+
+Send:  31 Tweet Subbed Bra^^
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [:/.-,+*)('&%$#"!9876543210zyxwvutsrqponmlkjihgf]	Expected [Q>*'ue9)$')ne8'*7xe_]Q]
+
+Rotation:  31
+Send:  =35 Scold Inline Ploy=
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A:]	Expected [2l6u8zk"u+sVEAgPjG~'x'y]
+
+Char Diff:  77
+Send:  23 Flux Asides Ambled%%
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [<"2\.3Pe]	Expected [(rq>.2>wg=zBNE^d0}B?y9f]
+
+Rotation:  79
+Send:  73 Shams Plague Stump\\
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flagAA
+Recv:  Password [Sz.F__2*:8]	Expected [Sz.F__2*/~wHTu@jr=iu]1gv&/CvN^6Y&1}asF*Y%R*j0K]
+
+Rotation:  79
+Send:  The flag A
+Recv:  Password [Sz.F__2*/7]	Expected [Sz.F__2*/~wHTu@jr=iu]1gv&/CvN^6Y&1}asF*Y%R*j0K]
+
+Send:  The flag i
+Recv:  Password [Sz.F__2*/~]	Expected [Sz.F__2*/~wHTu@jr=iu]1gv&/CvN^6Y&1}asF*Y%R*j0K]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqr]	Expected [:60|}pev|OXqp| llh:]
+
+Rotation:  92
+Send:  =93 Ashy Rats Cook=
+Recv:  Password valid.
+Another easy box:
+
+Send:  ``70 Bobbed Slopes Treat
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [_^]\[@?>=<;:/.-,+*)('&%$#"!9876543210zyxwvutsrq]	Expected [gg]<</8p<'?vp\??5pHA]
+
+Rotation:  42
+Send:  18 Poor Foal Sills\\
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AG]	Expected [~R06'8$p3=QB*CXhjutS=]j]
+
+Char Diff:  6
+Send:  ~Loosed Haze Timing 33~
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [e8w,zHOc]	Expected [D:p{=%TZ}}*m6yLgu&lk:%]
+
+Rotation:  30
+Send:  '94 Basic Rasp Medias'
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag iAA
+Recv:  Password [KjL'3W.iX?,k]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+
+Rotation:  30
+Send:  The flag isA
+Recv:  Password [KjL'3W.iX?W=]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+
+Send:  The flag is:
+Recv:  Password [KjL'3W.iX?E=]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [^_`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklm]	Expected [9!JgmYZ]`SVjW]_SYYWV]v0]
+
+Rotation:  87
+Send:  ()Rough Cadre Bagged 38
+Recv:  Password valid.
+Another easy box:
+
+Send:  98 Golden Gamers Probed\\
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [43210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLK]	Expected []xozooNJ2woRJnoqnyVJ")]]
+
+Rotation:  10
+Send:  /81 Lodged Hems Deepen/
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [An]	Expected [+BkV;z;b*$g@W!PO"g[L}]
+
+Char Diff:  39
+Send:  +51 Ruins Widen Jive+
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [DGjv ~|^]	Expected ['p9Jf(Xm5<"%?5an1Ju|O~]
+
+Rotation:  3
+Send:  Swab Bangs 77 Saunas$$
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is:AA
+Recv:  Password [KjL'3W.iX?E=b3]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+
+Rotation:  3
+Send:  The flag is: A
+Recv:  Password [KjL'3W.iX?E=a2]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+
+Send:  The flag is: G
+Recv:  Password [KjL'3W.iX?E=a8]	Expected [KjL'3W.iX?E=a8s"8T.T,bX{xow)K>iMT0_Yk[H^hu}~  ]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [/:;<=>?@[\]^_`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZab]	Expected [9^fUeLZ.:VYYVd.ih.DVTLU9]
+
+Rotation:  76
+Send:  =Lynxes Borrow 10 Women=
+Recv:  Password valid.
+Another easy box:
+
+Send:  __51 Gritty Drunks Save
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [A ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543210zyx]	Expected [S}A::"w~C`}yw<_<}<&wIKS]
+
+Rotation:  49
+Send:  #42 Serene Brows Occur#
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A0]	Expected [&K&8rJ7j!ZsW~0`2Gc_;h:wc]
+
+Char Diff:  52
+Send:  &16 Zigzag Unpaid Homes&
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [h%8CEIQg]	Expected [bJTgzO}]Yp>k(-!YTgWyk]
+
+Rotation:  33
+Send:  `60 Fine Chip Chants`
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: GAA
+Recv:  Password [a&sla7hNiJ}dMgY7]	Expected [a&sla7hNiJ}dMgbHau_,E<pE\RzYQ~?kU2Bc0Vo4E@y+KV]
+
+Rotation:  33
+Send:  The flag is: GrA
+Recv:  Password [a&sla7hNiJ}dMg&H]	Expected [a&sla7hNiJ}dMgbHau_,E<pE\RzYQ~?kU2Bc0Vo4E@y+KV]
+
+Send:  The flag is: Gr3
+Recv:  Password [a&sla7hNiJ}dMgbH]	Expected [a&sla7hNiJ}dMgbHau_,E<pE\RzYQ~?kU2Bc0Vo4E@y+KV]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [()*+,-./:;<=>?@[\]^_`{|}~ ABCDEFGHIJKLMNOPQRSTU]	Expected [ga'_ATTY'>UFFS']ASPEDvv]
+
+Rotation:  69
+Send:  60 Tatty Muffs Rasped,,
+Recv:  Password valid.
+Another easy box:
+
+Send:  _66 Grainy Scamps Lance_
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [GFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543]	Expected [oVQ2EF_^`82D\KD82D\FG(o]
+
+Rotation:  55
+Send:  =Outer Fryer Fights 49=
+Recv:  Password valid.
+Send:  AA
+Recv:  
+Catching on!
+Password [A"]	Expected [:V\~,/kH<|9'c`:n5dY 3m]G]
+
+Char Diff:  63
+Send:  :12 Lumpy Bogeys Delete:
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [&nG[,zHO]	Expected [n3OPv>n*;=!Uhn-|/:QcUq|]
+
+Rotation:  67
+Send:  &86 Dual Deluxe Givers&
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3AA
+Recv:  Password [Ptz_o^y(':<)>.J~7Y]	Expected [Ptz_o^y(':<)>.J~\(\Y~&_.[PrUA9x&xRrxp vMSQ&hs`]
+
+Rotation:  67
+Send:  The flag is: Gr3aA
+Recv:  Password [Ptz_o^y(':<)>.J~\y]	Expected [Ptz_o^y(':<)>.J~\(\Y~&_.[PrUA9x&xRrxp vMSQ&hs`]
+
+Send:  The flag is: Gr3aT
+Recv:  Password [Ptz_o^y(':<)>.J~\(]	Expected [Ptz_o^y(':<)>.J~\(\Y~&_.[PrUA9x&xRrxp vMSQ&hs`]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [RSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"]	Expected [J.-Qjy5$v8Qj52vQf2uzvJ]
+
+Rotation:  17
+Send:  ^65 Shower Sole Oldie^
+Recv:  Password valid.
+Another easy box:
+
+Send:  16 Chills Refill Genie__
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [EDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!987654321]	Expected [cbC}^<'0H~'0IDD@'0OM]
+
+Rotation:  53
+Send:  24 Petty Pox Pains()
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A{]	Expected [<2s<CIA{}x"-+&.Tbk3om*]
+
+Char Diff:  90
+Send:  <72 Wheel Silly Mayor>
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [[,-e8ZyF]	Expected [h0Wp5D&hL0Kj)ix?TW4.e8]
+
+Rotation:  84
+Send:  ,,Docs Pitted 28 Pores
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aTAA
+Recv:  Password [`D,E[=W3M8Lko_9Y ^c9]	Expected [`D,E[=W3M8Lko_9Y ^!8v)F>N"tVE(>@Sy=UU0(X!JnT@+]
+
+Rotation:  84
+Send:  The flag is: Gr3aT A
+Recv:  Password [`D,E[=W3M8Lko_9Y ^b8]	Expected [`D,E[=W3M8Lko_9Y ^!8v)F>N"tVE(>@Sy=UU0(X!JnT@+]
+
+Send:  The flag is: Gr3aT j
+Recv:  Password [`D,E[=W3M8Lko_9Y ^!8]	Expected [`D,E[=W3M8Lko_9Y ^!8v)F>N"tVE(>@Sy=UU0(X!JnT@+]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [efghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./]	Expected [DD[`df)!!=dz8(7),dt4&-]
+
+Rotation:  30
+Send:  ''27 Boggy Vendor Pals
+Recv:  Password valid.
+Another easy box:
+
+Send:  ::Minx Scares 75 Mounts
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password ["!9876543210zyxwvutsrqponmlkjihgfedcbaZYXWVUTSR]	Expected [F9#viQ;,Q22584lQ96"!vjF]
+
+Rotation:  17
+Send:  @Setups Unroll 49 Revs@
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AN]	Expected [*[^Dz@Yeu&i% JapRy^|Qg]
+
+Char Diff:  13
+Send:  **97 Spilt Sheik Trips
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [|^H]:7Xu]	Expected [c"a$WQZ:;qGOB;{| 4M;#s_]
+
+Rotation:  91
+Send:  &&41 Epic Strata Giving
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT jAA
+Recv:  Password [m|t\c"xV%,"!xLm8w{-%Tn]	Expected [m|t\c"xV%,"!xLm8w{-%*XH?R*:l'HX2}IHf#tpJG^%=q\]
+
+Rotation:  91
+Send:  The flag is: Gr3aT j0A
+Recv:  Password [m|t\c"xV%,"!xLm8w{-%*|]	Expected [m|t\c"xV%,"!xLm8w{-%*XH?R*:l'HX2}IHf#tpJG^%=q\]
+
+Send:  The flag is: Gr3aT j0b
+Recv:  Password [m|t\c"xV%,"!xLm8w{-%*X]	Expected [m|t\c"xV%,"!xLm8w{-%*XH?R*:l'HX2}IHf#tpJG^%=q\]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [?@[\]^_`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefgh]	Expected [11or>Ehfgl>}VggRa>CNjf]
+
+Rotation:  82
+Send:  %%14 Rusty Kitten Paws
+Recv:  Password valid.
+Another easy box:
+
+Send:  33 Absorb Hasty Flier//
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [utsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA]	Expected [??99 detliT tuN ykcuL]
+
+Rotation:  0
+Send:  Lucky Nut Tilted 99??
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A*]	Expected [.zI@~|/4lE-UCQ;5hWqiZO)z]
+
+Char Diff:  71
+Send:  ..48 Veined Frilly Perch
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [FKr"f!d6]	Expected [j@-zC'gOLd&~_Qd+0!bSkGM]
+
+Rotation:  5
+Send:  ^^66 Broad Cribs Insure
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0bAA
+Recv:  Password [zW2quED~(<^-CMq!4LrDJ`U5]	Expected [zW2quED~(<^-CMq!4LrDJ`>Y)?a79_!a.(96:*y9YcU5t|]
+
+Rotation:  5
+Send:  The flag is: Gr3aT j0b!A
+Recv:  Password [zW2quED~(<^-CMq!4LrDJ`?Y]	Expected [zW2quED~(<^-CMq!4LrDJ`>Y)?a79_!a.(96:*y9YcU5t|]
+
+Send:  The flag is: Gr3aT j0b! 
+Recv:  Password [zW2quED~(<^-CMq!4LrDJ`>Y]	Expected [zW2quED~(<^-CMq!4LrDJ`>Y)?a79_!a.(96:*y9YcU5t|]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [GHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0]	Expected [LotkyFOtluxsF!%FZogxgy__]
+
+Rotation:  6
+Send:  Fines Inform 48 Tiaras??
+Recv:  Password valid.
+Another easy box:
+
+Send:  86 Deaf Gummed Uppers??
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [DCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543210]	Expected [B_`;*zC=;C|8zA?C;A8zQKgg]
+
+Rotation:  52
+Send:  ..17 Irater Intact Talks
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AM]	Expected [L0*%v+Lcj05kNX+]t8*' o0]
+
+Char Diff:  12
+Send:  Love Mining 75 Brutes,,
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [EIn3Pe8Z]	Expected [/d0IFOPM)n(t6U|&l=-Zif8q]
+
+Rotation:  4
+Send:  +35 Pricey Agent Realms+
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! AA
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V5U]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+
+Rotation:  4
+Send:  The flag is: Gr3aT j0b! BA
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V6V]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+
+Send:  The flag is: Gr3aT j0b! Bl
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V66]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmno]	Expected [00_McfeYh_JYU_Jfogm'']
+
+Rotation:  89
+Send:  66 Silken Pea Plums--
+Recv:  Password valid.
+Another easy box:
+
+Send:  @34 Notice Hailed Gable@
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [ponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA ~}|{]	Expected [Ymjc}`YZXm{`gVZkZM`03><]
+
+Rotation:  90
+Send:  []85 Repeal Arced Chord
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [Ay]	Expected [$3q>6JO=uO7IduA[vd[t )]
+
+Char Diff:  50
+Send:  $Flaws Panic 98 Hints$
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [v VTm/5T]	Expected [C}w~p$2>vd7W2A/x9Z!d]
+
+Rotation:  47
+Send:  &&35 Handed Tubs Cry
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlAA
+Recv:  Password [b(0pq|%:FuyIX2UzMS*R$L26Q(PH]	Expected [b(0pq|%:FuyIX2UzMS*R$L26Q((h0)\\a%x01Xw8UU@p/6]
+
+Rotation:  47
+Send:  The flag is: Gr3aT j0b! BlaA
+Recv:  Password [b(0pq|%:FuyIX2UzMS*R$L26Q(ph]	Expected [b(0pq|%:FuyIX2UzMS*R$L26Q((h0)\\a%x01Xw8UU@p/6]
+
+Send:  The flag is: Gr3aT j0b! Blac
+Recv:  Password [b(0pq|%:FuyIX2UzMS*R$L26Q((h]	Expected [b(0pq|%:FuyIX2UzMS*R$L26Q((h0)\\a%x01Xw8UU@p/6]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [BCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuv]	Expected [22ADpnfmzATmffqzADvset$$]
+
+Rotation:  1
+Send:  11 Comely Sleepy Curds##
+Recv:  Password valid.
+Another easy box:
+
+Send:  //59 Teeing Doers Lure
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [utsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA]	Expected [''slwoH oryT tsibuC 75]
+
+Rotation:  0
+Send:  57 Cubist Tyro Howls''
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AB]	Expected [[OqepjxGerxyq4Ngqz!x#U@;P]
+
+Char Diff:  1
+Send:  [Nobler Winner Raises 93]
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [5T9EIQg#]	Expected [ii)t^r[Xr@7ih"?zOXPaQj>]
+
+Rotation:  57
+Send:  +96 Dingy Clamps Bloom+
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlacAA
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>no>]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+
+Rotation:  57
+Send:  The flag is: Gr3aT j0b! BlackA
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>n/W]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+
+Send:  The flag is: Gr3aT j0b! BlackB
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>n/X]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [JKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123]	Expected [++"$ILr2ro7IKxyynmIPr4n0]
+
+Rotation:  9
+Send:  ""24 Citify Bopped Giver
+Recv:  Password valid.
+Another easy box:
+
+Send:  33 Absorb Hasty Flier//
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [0zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHG]	Expected [`yk3KF6#Fyk5gxHFqyuoQ`]
+
+Rotation:  6
+Send:  @Kiosk Brazes 60 Exes@
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [Aq]	Expected [!wT(WT>0:a/>_fR9p{a&d`]
+
+Char Diff:  42
+Send:  !Gems Track 73 Bipeds!
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [k++a0JSk]	Expected [i'=!jg95U3KULK$e(j&EF#k]
+
+Rotation:  36
+Send:  41 Clowns Looted Coil~~
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBAA
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[0,]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+
+Rotation:  36
+Send:  The flag is: Gr3aT j0b! BlackBoA
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[}S]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+
+Send:  The flag is: Gr3aT j0b! BlackBox
+Recv:  Password [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uS]	Expected [Orr[Y3RFCoa|)1QxECH=go.V66ZL7[uSrF{Zo}nIC<i#,0]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [3456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ ABCDEFG]	Expected [ccPP2%AG[2+>F`A25DA]FE]
+
+Rotation:  55
+Send:  ''33 Loud Ratio Crofts
+Recv:  Password valid.
+Another easy box:
+
+Send:  /84 Hoist Droopy Cabbie/
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [;:/.-,+*)('&%$#"!9876543210zyxwvutsrqponmlkjihg]	Expected [:/%(*kf/9!!jf9!*)?nf`^BB]
+
+Rotation:  32
+Send:  ##35 Hymned Deeds Enlist
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A$]	Expected [1eiFS\pa?O@{yh2nm}4nOfB]
+
+Char Diff:  65
+Send:  18 Artful Doer Organs||
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [xDdj)t{\]	Expected [ }*9E\Zk<8Ylzl.9RZgWyd6]
+
+Rotation:  49
+Send:  ??60 Raked Whiles Roast
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBoxAA
+Recv:  Password [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRo>]	Expected [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRn}6J*7ClXaM1d7]
+
+Rotation:  49
+Send:  The flag is: Gr3aT j0b! BlackBox A
+Recv:  Password [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRn=]	Expected [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRn}6J*7ClXaM1d7]
+
+Send:  The flag is: Gr3aT j0b! BlackBox M
+Recv:  Password [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRn}]	Expected [tKGStC{`1v2Kf)[@t[y2XWD=J3NFjksRn}6J*7ClXaM1d7]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [KLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01234]	Expected [<&'Jczsuo2JdkmuonJKzo=]
+
+Rotation:  10
+Send:  (56 Spikes Tacked Ape)
+Recv:  Password valid.
+Another easy box:
+
+Send:  []19 Topped Planks Poking
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [JIHGFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876]	Expected [m{C}{{!5HI|{}:5^_^DG!5YWm]
+
+Rotation:  58
+Send:  .79 Eroded Tights Egging.
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AB]	Expected ["#3"DFzvurmKe73t7sRj%3$7']
+
+Char Diff:  1
+Send:  ""18 Atomic Superb Quirks
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [TmE=$j)t]	Expected ["Yt?$M\(@GNaj4!ap?w3P]
+
+Rotation:  19
+Send:  ""Jeeps Need 28 Wails
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox MAA
+Recv:  Password [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;Gy]	Expected [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;C/2Z4#k0VKvA]
+
+Rotation:  19
+Send:  The flag is: Gr3aT j0b! BlackBox MaA
+Recv:  Password [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;g/]	Expected [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;C/2Z4#k0VKvA]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$
+Recv:  Password [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;C/]	Expected [c*8t6cEu*@I?i/NA~\24fm&Rqa^q_v_ng;C/2Z4#k0VKvA]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [RSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"]	Expected [?Vxx9Qivr954Q/+Qc5569?]
+
+Rotation:  17
+Send:  $Eggs Reason 73 Loops$
+Recv:  Password valid.
+Another easy box:
+
+Send:  ??83 Jeers Lose Collie
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [YXWVUTSRQPONMLKJIHGFEDCBA ~}|{`_^]\[@?>=<;:/.-,]	Expected [**ITSV}+HITQY?+WIGIM_+ni]
+
+Rotation:  73
+Send:  49 Pieces Jumped Trope~~
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A@]	Expected [6x)>,[,KBePL{hZoZgN~rf]
+
+Char Diff:  83
+Send:  69 Waxy Crows Debunk~~
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [Oc<o=$j)]	Expected [[j'2'lJXx<sm*qB'XMV2]
+
+Rotation:  14
+Send:  (58 Ruins Slid Dreg)
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$AA
+Recv:  Password [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K4S]	Expected [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K.&i1^7xYIR]
+
+Rotation:  14
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$TA
+Recv:  Password [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K.l]	Expected [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K.&i1^7xYIR]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Te
+Recv:  Password [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K.&]	Expected [xSmiOjg8gF/V."4([&:U:j3LS,\p[n4X"t8K.&i1^7xYIR]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [qrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_]	Expected [FEp7_</>-p1_(+]pq</->gg]
+
+Rotation:  42
+Send:  65 Ruling Lubes Align\\
+Recv:  Password valid.
+Another easy box:
+
+Send:  ??66 Spilt Skirts Crated
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [RQPONMLKJIHGFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%]	Expected [jZa$PAIL [$JI}B@$IBRO'j]
+
+Rotation:  66
+Send:  #Cruel Realm Scolds 32#
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [A(]	Expected [{eFQJG:mI=YB _wXJgVN~2{]
+
+Char Diff:  69
+Send:  {45 Spread Caught Ogre}
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [v VTm/5T]	Expected [ZGNh%ej#;vJF}-EGPRo9G,0V]
+
+Rotation:  47
+Send:  ,98 Unhurt Oboes Felled,
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$TeAA
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4+@]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+
+Rotation:  47
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$TerA
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4Uf]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$
+Recv:  Password [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f]	Expected [|H`MVx__xnW`!lvR%fcr-df $+>n/X^]e->'W4\f ,K0Zz]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [`{|}~ ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmno]	Expected [yw_MYfYWn_ icfm_BiVVfY))]
+
+Rotation:  89
+Send:  42 Select Foils Hobble//
+Recv:  Password valid.
+Another easy box:
+
+Send:  @56 Lubes Access Emir@
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [ONMLKJIHGFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"]	Expected [8M  O=!~NCB\!SFCTI%!Ub6]
+
+Rotation:  63
+Send:  {70 Dozily White Ruffs}
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AI]	Expected [;&)Xz)-[C*AkpwvYw*{o]
+
+Char Diff:  8
+Send:  ;72 Teach Prone Pep;
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [AAXXu}`@]	Expected [|g&at).4Yo=k*~{&y#fVqb]
+
+Rotation:  0
+Send:  |11 Blast Addled Tank|
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$AA
+Recv:  Password [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!o>]	Expected [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!ck0,Od]
+
+Rotation:  0
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@A
+Recv:  Password [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!c(]	Expected [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!ck0,Od]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!
+Recv:  Password [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!ck]	Expected [.)4ryMjOmRdt/$#,FEP[w+N\dA;\)Ln!d+,#GY0!ck0,Od]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [HIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz01]	Expected [ '9GZjovvsGUvklzGJyv3lk ]
+
+Rotation:  7
+Send:  ^92 School Nodes Crowed^
+Recv:  Password valid.
+Another easy box:
+
+Send:  92 Fauns Sense Then::
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [GFEDCBA ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543]	Expected [zz[\ I>82E^`)2>\["2UT]
+
+Rotation:  55
+Send:  78 Idea Pigs Fawned||
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AK]	Expected [-#,d6AFERtEU3-,\#`Qk2 ]
+
+Char Diff:  10
+Send:  -21 Stodgy Fence Oaks-
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [2Nx.3Pe8]	Expected [bTx_]#ciSZtHP_/G  _\w}zHa]
+
+Rotation:  54
+Send:  '44 Deafer Epochs Vanish'
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!AA
+Recv:  Password [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=t7d]	Expected [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=t_|];]
+
+Rotation:  54
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!!A
+Recv:  Password [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=ta|]	Expected [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=t_|];]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!!!
+Recv:  Password [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=t_|]	Expected [Hd?4HV*gP%jw_`$aHIf}=p<X%-`r}3Z3BQnvh;;.=t_|];]
+You have entered an invalid password too many times. Exiting.
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: 
+[*] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Trying 52.17.65.252
+[+] Opening connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me on port 18324: Done
+You need to open the box!
+Valid characters are: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ "
+Max length is: 63 characters.
+Let's try some easy boxes:
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [89!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ ABCDEFGHIJKL]	Expected [i.]K FJ78D{E`7Ya7!I]E{Jj]
+
+Rotation:  60
+Send:  (Patios Amend 79 Cranes)
+Recv:  Password valid.
+Another easy box:
+
+Send:  81 Robust Folds Sprout()
+Recv:  Password valid.
+A little harder maybe?
+
+Send:  ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstu
+Recv:  Password [A ~}|{`_^]\[@?>=<;:/.-,+*)('&%$#"!9876543210zyx]	Expected [dIOw~;].:&w_`>}`3w .2d]
+
+Rotation:  49
+Send:  .Fat Gorgon Scalds 82.
+Recv:  Password valid.
+Catching on!
+
+Send:  AA
+Recv:  Password [AJ]	Expected [_&+ay~_HJ=~sq!.n%_QPTdB]
+
+Char Diff:  9
+Send:  _62 Owing Dodos Reside_
+Recv:  Password valid.
+Almost there!
+
+Send:  AAAAAXAA
+Recv:  Password [EIn3Pe8Z]	Expected [`e&i*s(bE`DGN/3t|]:8|\i).]
+
+Rotation:  4
+Send:  \31 Bedded Buttes Piling\
+Recv:  Password valid.
+Great! Last one!
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!!!AA
+Recv:  Password [$y*D=+\nrb($9jnNy {-I^,U2y_{{zJv#v'O|E&W6BHDwC]	Expected [$y*D=+\nrb($9jnNy {-I^,U2y_{{zJv#v'O|E&W6BHDTn]
+
+Rotation:  4
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!!!%A
+Recv:  Password [$y*D=+\nrb($9jnNy {-I^,U2y_{{zJv#v'O|E&W6BHDT']	Expected [$y*D=+\nrb($9jnNy {-I^,U2y_{{zJv#v'O|E&W6BHDTn]
+
+Send:  The flag is: Gr3aT j0b! BlackBox Ma$Ter$@!!!%%
+Recv:  Password valid.
+All done!
+
+[*] Closed connection to blackbox_ced7f267475a0299446fa86c26d77161.quals.shallweplayaga.me port 18324
